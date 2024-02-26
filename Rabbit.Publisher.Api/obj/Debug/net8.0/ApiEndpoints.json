@@ -1,0 +1,24 @@
+[
+  {
+    "ContainingType": "Rabbit.Publisher.Api.Controllers.RabbitMensagensController",
+    "Method": "AddMensagem",
+    "RelativePath": "api/RabbitMensagens",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "mensagem",
+        "Type": "Rabbit.Model.Entity.RabbitMensagem",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ]
+  }
+]

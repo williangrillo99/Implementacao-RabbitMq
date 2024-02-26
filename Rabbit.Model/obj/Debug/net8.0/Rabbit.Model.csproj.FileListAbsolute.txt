@@ -1,0 +1,12 @@
+D:\Temp\rabbitMq\Rabbit.Model\bin\Debug\net8.0\Rabbit.Model.deps.json
+D:\Temp\rabbitMq\Rabbit.Model\bin\Debug\net8.0\Rabbit.Model.dll
+D:\Temp\rabbitMq\Rabbit.Model\bin\Debug\net8.0\Rabbit.Model.pdb
+D:\Temp\rabbitMq\Rabbit.Model\obj\Debug\net8.0\Rabbit.Model.GeneratedMSBuildEditorConfig.editorconfig
+D:\Temp\rabbitMq\Rabbit.Model\obj\Debug\net8.0\Rabbit.Model.AssemblyInfoInputs.cache
+D:\Temp\rabbitMq\Rabbit.Model\obj\Debug\net8.0\Rabbit.Model.AssemblyInfo.cs
+D:\Temp\rabbitMq\Rabbit.Model\obj\Debug\net8.0\Rabbit.Model.csproj.CoreCompileInputs.cache
+D:\Temp\rabbitMq\Rabbit.Model\obj\Debug\net8.0\Rabbit.Model.sourcelink.json
+D:\Temp\rabbitMq\Rabbit.Model\obj\Debug\net8.0\Rabbit.Model.dll
+D:\Temp\rabbitMq\Rabbit.Model\obj\Debug\net8.0\refint\Rabbit.Model.dll
+D:\Temp\rabbitMq\Rabbit.Model\obj\Debug\net8.0\Rabbit.Model.pdb
+D:\Temp\rabbitMq\Rabbit.Model\obj\Debug\net8.0\ref\Rabbit.Model.dll

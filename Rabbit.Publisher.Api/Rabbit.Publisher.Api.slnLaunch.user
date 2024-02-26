@@ -1,0 +1,16 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Name": "Rabbit.Publisher.Api.csproj",
+        "Action": "Start",
+        "DebugTarget": "IIS Express"
+      },
+      {
+        "Name": "..\\Rabbit.Consumer\\Rabbit.Consumer.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]
